@@ -1,4 +1,4 @@
-# `0vm`
+# ![logo](doc/logo.png) `0vm`
 ## Object Virtual Machine
 ### minimal object runtime for script languages
 
